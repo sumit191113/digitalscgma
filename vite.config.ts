@@ -10,6 +10,8 @@ export default defineConfig({
   },
   build: {
     outDir: 'dist',
-    sourcemap: true,
+    assetsDir: 'assets',
+    sourcemap: false,
+    emptyOutDir: true,
   },
 });
