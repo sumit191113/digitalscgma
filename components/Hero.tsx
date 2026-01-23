@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
       <div className="absolute inset-0 z-0">
         <img 
           src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=2070&auto=format&fit=crop" 
-          alt="Samrat Chandra Gupta Maurya Academy Campus - Best School in Barabanki" 
+          alt="School Campus" 
           className="w-full h-full object-cover"
           loading="eager"
         />
